@@ -5,3 +5,15 @@
 .fillpage {
      padding-bottom: 100%;
 }
+
+.Weblogo {
+     max-width: 100%;
+}
+
+.biggertext {
+     font-size: 115%;
+}
+
+img {
+     margin-bottom: 5%;
+}
