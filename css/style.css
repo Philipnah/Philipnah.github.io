@@ -597,7 +597,7 @@ body.offcanvas {
           font-size: 16px;
           color: #cccccc; }
     .project .desc h3 {
-      font-size: 16px;
+      font-size: 18px;
       font-weight: 500;
       text-transform: uppercase;
       letter-spacing: 1px;
@@ -614,8 +614,8 @@ body.offcanvas {
         color: #fff; }
     .project .desc span {
       display: block;
-      color: #999999;
-      font-size: 13px;
+      color: #bfbfbf;
+      font-size: 17px;
       -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
       -webkit-transition: opacity 0.3s, -webkit-transform 0.3s;
       transition: opacity 0.3s, -webkit-transform 0.3s;
@@ -769,7 +769,7 @@ body.offcanvas {
       font-weight: 500;
       margin-bottom: 20px;
       color: rgba(0, 0, 0, 0.7);
-      font-size: 14px;
+      font-size: 18px;
       letter-spacing: 3px;
       text-transform: uppercase; }
   .colorlib-feature.colorlib-feature-sm .colorlib-text {
